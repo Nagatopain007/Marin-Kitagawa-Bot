@@ -3,7 +3,7 @@
 <a href="https://github.com/Nagato-pain/"><img src="https://user-images.githubusercontent.com/97988840/156468495-.https://c.tenor.com/nGh9xPA26EAAAAAM/aggies.gif*
 " alt="chitoge" border="0"></a>
 
-💫**Marin: A WhatsApp BOT🖤💖 WITH RICH✨ NSFW🔞FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
+👁️PAIN: A WhatsApp BOT⛓️👁️ WITH RICH✨ NSFW🔞FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/shineiichijo/chitoge/badge)](https://www.codefactor.io/repository/github/shineiichijo/chitoge)
 
