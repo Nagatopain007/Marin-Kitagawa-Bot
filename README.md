@@ -15,7 +15,7 @@
 
 </div><br/>
 <br/>
-Button : If you are deploying from a fork if you want to deploy Marin Kitagawa-Bot
+Button : If you are deploying from a fork if you want to deploy Nagato Pain-Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
