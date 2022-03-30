@@ -1,6 +1,6 @@
 <h1 align="center">~ 👁️ 𝓦𝓔𝓛𝓛𝓒𝓞𝓜𝓔 𝓣𝓞 𝓜𝓨 𝓟𝓡𝓞𝓕𝓘𝓛𝓔 👁
 <div align="center">
-<a href="https://github.com/Nagato-pain/"><img src="https://user-images.githubusercontent.com/97988840/156468495-.https://c.tenor.com/nGh9xPA26EAAAAAM/aggies.gif*
+<a href="https://github.com/Nagato-pain/"><img src="https://user-images.ghttps://c.tenor.com/nGh9xPA26EAAAAAM/aggies.gif*
 " alt="chitoge" border="0"></a>
 
 👁️PAIN: A WhatsApp BOT⛓️👁️ WITH RICH✨ NSFW🔞FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
