@@ -1,6 +1,6 @@
-<h1 align="center">~ 💫 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮✨ 💜
+<h1 align="center">~ 👁️ 𝓦𝓔𝓛𝓛𝓒𝓞𝓜𝓔 𝓣𝓞 𝓜𝓨 𝓟𝓡𝓞𝓕𝓘𝓛𝓔 👁
 <div align="center">
-<a href="https://github.com/Chey-san/"><img src="https://user-images.githubusercontent.com/97988840/156468495-58f662e6-959a-4121-87f7-8ea9cba47f03.gif"
+<a href="https://github.com/Nagato-pain/"><img src="https://user-images.githubusercontent.com/97988840/156468495-.https://c.tenor.com/nGh9xPA26EAAAAAM/aggies.gif*
 " alt="chitoge" border="0"></a>
 
 💫**Marin: A WhatsApp BOT🖤💖 WITH RICH✨ NSFW🔞FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
